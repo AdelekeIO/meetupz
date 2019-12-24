@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDS": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb+srv://aio:segun12345@cluster0-d1lv7.mongodb.net/meetupz",
+    "database": "meetupz",
+    "password": "segun12345",
+    "name": "mongoDS",
+    "user": "aio",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
